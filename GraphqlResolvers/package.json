@@ -1,0 +1,11 @@
+{
+  "name": "graphql-resolvers",
+  "version": "1.0.0",
+  "description": "for managing resolvers in a graphql app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

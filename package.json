@@ -1,0 +1,11 @@
+{
+  "name": "graphql-modules",
+  "version": "1.0.0",
+  "description": "pkg for building your graphqlapi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
