@@ -1,3 +1,3 @@
-module.exports = require('./lib/class')
+module.exports = require('./lib/base_class')
 
 //add some type script for obj info 
