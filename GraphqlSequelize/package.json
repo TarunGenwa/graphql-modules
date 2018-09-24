@@ -1,5 +1,5 @@
 {
-  "name": "graphql-sequelize",
+  "name": "sequelize-graphql",
   "version": "1.0.0",
   "description": "for using graphql with sequelize orm ",
   "main": "index.js",
